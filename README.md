@@ -5,7 +5,7 @@ Note Taker
 
 This assignment was to modify starter code to create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.
 
-Deployed with Heroku. [Note Take app](https://shielded-caverns-56690.herokuapp.com/notes)
+Deployed with Heroku. [Note Take app](https://shielded-caverns-56690.herokuapp.com)
 
 
 ## Skills Used

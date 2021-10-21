@@ -19,7 +19,7 @@ Deployed with Heroku. [Note Take app](https://shielded-caverns-56690.herokuapp.c
 
 The following images show the web application's appearance and functionality: 
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./public/assets/demo/notetaker.PNG)
+![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Develop/public/assets/demo/notetaker.PNG)
 
 ## License
 
